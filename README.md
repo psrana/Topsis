@@ -1,7 +1,7 @@
 # Topsis
 
 
-# Topsis
+### 1
 
 ![image](https://user-images.githubusercontent.com/7460892/177049161-8629b41f-750f-4c5e-b75a-90b6a92288ab.png)
 
