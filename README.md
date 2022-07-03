@@ -1,21 +1,28 @@
 # Topsis
 
-![image](https://user-images.githubusercontent.com/7460892/177049052-f6ee0ae7-87b2-4f70-beea-b78a62445e72.png)
+![image](https://user-images.githubusercontent.com/7460892/177049161-8629b41f-750f-4c5e-b75a-90b6a92288ab.png)
 
 
-![image](https://user-images.githubusercontent.com/7460892/177049061-4a31784c-55b7-4e45-ac55-7efc4c188946.png)
+![image](https://user-images.githubusercontent.com/7460892/177049171-fb6257dc-3a94-4e94-8d90-df2a0f7d9fe1.png)
 
 
-![image](https://user-images.githubusercontent.com/7460892/177049064-1976d2de-e1fd-4055-a40f-aa43e141f52e.png)
+![image](https://user-images.githubusercontent.com/7460892/177049177-9482cb5d-a475-40e4-bdc3-ef4c4b73f56b.png)
 
 
-![image](https://user-images.githubusercontent.com/7460892/177049071-34241fe6-b877-4c37-890a-6e710176f8b3.png)
+![image](https://user-images.githubusercontent.com/7460892/177049184-46cfa5a7-ca69-4c26-a1a5-50a29ff3ee07.png)
 
 
-![image](https://user-images.githubusercontent.com/7460892/177049074-ca0f8351-c83e-47b0-a87e-71170d7cf9c5.png)
+![image](https://user-images.githubusercontent.com/7460892/177049192-5fc7a3ca-ab5e-4dcb-9685-ea6539cf5a84.png)
 
 
-![image](https://user-images.githubusercontent.com/7460892/177049079-2849cb17-c36b-4bf0-bcf8-442cd90dbc76.png)
+![image](https://user-images.githubusercontent.com/7460892/177049198-7b4f1db2-1023-46db-85db-45c665d17d13.png)
 
 
-![image](https://user-images.githubusercontent.com/7460892/177049081-95b2283b-43a4-44e0-b57c-904e6c36e374.png)
+![image](https://user-images.githubusercontent.com/7460892/177049205-921f2c80-fe48-41ca-9720-10681aa31da2.png)
+
+
+![image](https://user-images.githubusercontent.com/7460892/177049209-7b26d7e6-80be-4ba6-8a4d-5517e3276119.png)
+
+
+![image](https://user-images.githubusercontent.com/7460892/177049220-c1c49642-1a44-4290-a254-2b89ff0e4069.png)
+
